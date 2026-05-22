@@ -232,7 +232,7 @@ All predictions clipped to [0, 1] as required by the competition.
 ## 👤 Author
 
 **Your Name**  
-[Kaggle Profile](https://www.kaggle.com/) · [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
+[Kaggle Profile](https://www.kaggle.com/shahsawarjan) · [GitHub](https://github.com/shahsawarjan006) 
 
 ---
 
